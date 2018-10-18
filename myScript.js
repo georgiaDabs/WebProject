@@ -1,0 +1,1 @@
+var recipe={name,photoLink,recipe,username,datePosted};
